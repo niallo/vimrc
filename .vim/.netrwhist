@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/nialljohiggins/projects/appmakr-socialize-website-api/socialize/v1/tests/models'
+let g:netrw_dirhist_2='/Users/nialljohiggins/projects/pyramid_registration/pyramid_registration/templates'
+let g:netrw_dirhist_3='/Users/nialljohiggins/projects/dragpushpull/dragpushpull.com/dragpushpullcom/static'
+let g:netrw_dirhist_4='/Users/nialljohiggins/projects/dragpushpull/dragpushpull.com/dragpushpullcom/templates'
+let g:netrw_dirhist_5='/Users/nialljohiggins/projects/dragpushpull/dragpushpull.com/dragpushpullcom/static'
+let g:netrw_dirhist_6='/Users/nialljohiggins/projects/socialize-config/puppet'
+let g:netrw_dirhist_7='/Users/nialljohiggins/projects/tucker/cloud'
