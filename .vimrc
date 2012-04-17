@@ -1,11 +1,6 @@
 set background=dark
 set nocompatible        " Use Vim defaults (much better!)
 filetype off
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-" let Vundle manage Vundle
-" required! 
-Bundle 'gmarik/vundle'
 
 set complete-=k complete+=k 
 set dictionary-=/usr/share/dict/words dictionary+=/usr/share/dict/words
@@ -42,5 +37,3 @@ let treeExplVertical=1
 au BufRead *.html set filetype=htmlm4
 au BufRead *.mako,*.mak set filetype=mako
 filetype plugin indent on
-call pathogen#infect()
-set vb
